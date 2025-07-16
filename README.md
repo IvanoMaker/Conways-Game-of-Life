@@ -1,4 +1,5 @@
 # Conways Game of Life
+![Game of Life Gameplay](assets/gol.png)
 ### Overview
 This is a replica of **Conway's Game of Life** written in Python.
 The game is comprised of a 2d vector of Cell objects who each have a boolean state for dead/alive. 
